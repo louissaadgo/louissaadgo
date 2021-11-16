@@ -6,7 +6,6 @@
 - 🔭 I’m currently working with microservices
 - 🌱 I enjoy learning new technologies
 - 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with finding a girlfriend
 - 💬 Ask me about anything
 - ⭐ If im not programming, then I'm building robots :)
 - ⚡ I speak 3 languages ( English, French, Arabic )
