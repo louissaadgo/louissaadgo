@@ -3,11 +3,10 @@
 <img align="right" alt="GIF" src="https://github.com/louissaadgo/louissaadgo/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Student, Developer and Engineer!!
-- 🔭 I’m currently working with microservices
 - 🌱 I enjoy learning new technologies
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything
-- ⭐ If im not programming, then I'm building robots :)
+- ⭐ I spent most of my time building Deep Learning models. 
 - ⚡ I speak 3 languages ( English, French, Arabic )
 
 ### Talk with me, I'm kinda awesome:
